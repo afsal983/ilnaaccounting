@@ -1,7 +1,7 @@
 pipeline {
    agent any
    environment {
-       registry = "ilnaaccouting/module1"
+       registry = "afsal983/ilnaaccounting"
        GOCACHE = "/tmp"
    }
    stages {
